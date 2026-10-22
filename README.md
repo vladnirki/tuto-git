@@ -12,3 +12,10 @@ git remote add origin https://github.com/vladnirki/tuto-git.git
 Titre du commit
 Description de notre commit avec des informations sur l'évolution du projet
 ```
+# Envoyer un commut sur le dépot distant
+```bash
+git add.
+git commit -a "titre du commit"
+git push origin main
+
+ 
