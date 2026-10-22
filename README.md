@@ -15,7 +15,7 @@ Description de notre commit avec des informations sur l'évolution du projet
 # Envoyer un commut sur le dépot distant
 ```bash
 git add.
-git commit -a "titre du commit"
+git commit -a "titre du commentaire"
 git push origin main
 ```
 # Pour les bonnes pratiques, on va intégrer la notion de revue de code.
