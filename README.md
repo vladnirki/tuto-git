@@ -17,5 +17,8 @@ Description de notre commit avec des informations sur l'évolution du projet
 git add.
 git commit -a "titre du commit"
 git push origin main
-
- 
+``` 
+ # Création d'une branche
+```bash
+git checkout -b NOM_BRANCHE
+```
