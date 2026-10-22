@@ -18,5 +18,6 @@ git add.
 git commit -a "titre du commit"
 git push origin main
 ```
+# Pour les bonnes pratiques, on va intégrer la notion de revue de code.
 
  
